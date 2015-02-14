@@ -1,5 +1,6 @@
 # median_filter
-author: miroslav.karpis@gmail.com
+Author: miroslav.karpis@gmail.com
+* md5 filter converted to C++ class by Frank Thilo (thilo@unix-ag.org) for bzflag (http://www.bzflag.org) based on: md5.h and md5.c reference implementation of RFC 1321 Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
 
 About: - this was a just an excercise, so use it only on your own risk. It can be used as a reference only.
 
